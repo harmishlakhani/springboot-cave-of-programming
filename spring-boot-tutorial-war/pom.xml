@@ -10,7 +10,7 @@
 		<java.version>1.8</java.version>
 	</properties>
 	<groupId>com.github.harmishlakhani</groupId>
-	<artifactId>spring-boot-tutorial</artifactId>
+	<artifactId>spring-boot-tutorial-war</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<dependencies>
 		<dependency>
